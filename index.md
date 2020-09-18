@@ -3,9 +3,9 @@
 iOS Developer is what I am doing to live.
 
 ### App Documents
-[Privacy Policy](duycao2506.github.io/privacy.md)
+[Privacy Policy](privacy.md)
 1. Gogo VPN
-[Terms of Service](duycao2506.github.io/gogoVPN/tos.md)
+[Terms of Service](/gogoVPN/tos.md)
 
 
 ### Support or Contact
