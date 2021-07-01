@@ -7,8 +7,8 @@ iOS Developer is what I am doing to live.
 [Terms of Service](/gogoVPN/tos.html)
 [Privacy Policy](privacy.html)
 2. BMI Rating
-[Terms of Service](/gogoVPN/tos.html)
-[Privacy Policy](privacy.html)
+[Terms of Service](/bmicalculator/tos.md)
+[Privacy Policy](/bmicalculator/privacy.md)
 
 
 ### Support or Contact
