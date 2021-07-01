@@ -3,9 +3,12 @@
 iOS Developer is what I am doing to live.
 
 ### App Documents
-[Privacy Policy](privacy.html)
 1. Gogo VPN
 [Terms of Service](/gogoVPN/tos.html)
+[Privacy Policy](privacy.html)
+2. BMI Rating
+[Terms of Service](/gogoVPN/tos.html)
+[Privacy Policy](privacy.html)
 
 
 ### Support or Contact
