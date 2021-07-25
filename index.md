@@ -10,6 +10,10 @@ iOS Developer is what I am doing to live.
 [Terms of Service](/bmicalculator/tos.md)
 [Privacy Policy](/bmicalculator/privacy.md)
 
+2. Secret Contacts Backup & Delete
+[Terms of Service](/secretcontactsbackup/terms.md)
+[Privacy Policy](/secretcontactsbackup/privacy.md)
+
 
 ### Support or Contact
 
