@@ -14,6 +14,10 @@ iOS Developer is what I am doing to live.
 [Terms of Service](/secretcontactsbackup/terms.md)
 [Privacy Policy](/secretcontactsbackup/privacy.md)
 
+2. Daily Little Chinese Widget
+[Terms of Service](/alittlechinese/tos.md)
+[Privacy Policy](/alittlechinese/privacy.md)
+
 
 ### Support or Contact
 
