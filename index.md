@@ -8,6 +8,7 @@ iOS Developer is what I am doing to live.
 3. Secret Contacts Backup & Delete  [Terms of Service](/secretcontactsbackup/terms.md)  [Privacy Policy](/secretcontactsbackup/privacy.md)
 4. Daily Little Chinese Widget  [Terms of Service](/alittlechinese/tos.md) [Privacy Policy](/alittlechinese/privacy.md)
 5. Go Authenticator [Terms of Service](/goauth/terms.md)[Privacy Policy](/goauth/privacy.md)
+6. Test Generator [Terms of Service](/testgenerator/terms.html)[Privacy Policy](/testgenerator/privacy.html)
 
 
 ### Support or Contact
