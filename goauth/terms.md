@@ -1,41 +1,194 @@
-**Terms & Conditions**  
+# Go Authenticator – Terms and Conditions
 
-These terms and conditions applies to the Go Authenticator app (hereby referred to as "Application") for mobile devices that was created by Duy Cao Khac Le (hereby referred to as "Service Provider") as a Free service.
+_Last updated: 28 March 2026_
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+These Terms and Conditions (the "Terms") govern your use of the **Go Authenticator** mobile application and any related services, including backup functionality and the Safari extension (collectively, the "App"). The App is owned and operated by **Duy Cao** ("we", "us", or "our"), based in Vietnam.
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+By downloading, installing, accessing, or using the App, you agree to be bound by these Terms and Apple’s standard **Licensed Application End User License Agreement ("Apple EULA")** as incorporated into the Apple Media Services Terms and Conditions. If you do not agree to these Terms, do not use the App.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+> **Important:** This document is for general informational purposes only and may not constitute legal advice. You should have it reviewed by a qualified attorney licensed in your jurisdiction before use.
 
-Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+---
 
-*   [AdMob](https://developers.google.com/admob/terms)
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-*   [AppLovin](https://www.applovin.com/terms/)
-*   [RevenueCat](https://www.revenuecat.com/terms)
+## 1. Relationship with Apple and Apple EULA
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+1.1 If you obtained the App via the Apple App Store, your use of the App is subject to the **Apple EULA**, which is incorporated into these Terms by reference.
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+1.2 In the event of any conflict between these Terms and the Apple EULA, the **Apple EULA will prevail** to the extent of such conflict with respect to your use of the App as a licensed application under Apple’s terms.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+1.3 You acknowledge that:
+- These Terms are concluded between you and us, not with Apple;
+- We, not Apple, are solely responsible for the App and its content (except as otherwise provided by the Apple EULA);
+- Apple has no obligation to provide maintenance or support services for the App;
+- To the maximum extent permitted by applicable law, Apple has no warranty obligation whatsoever with respect to the App, and any claims, losses, liabilities, damages, costs, or expenses attributable to a failure to conform to a warranty are our responsibility, subject to these Terms and applicable law.
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+1.4 You acknowledge and agree that Apple and Apple’s subsidiaries are third‑party beneficiaries of these Terms and shall have the right (and shall be deemed to have accepted the right) to enforce these Terms against you as a third‑party beneficiary.
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+---
 
-**Changes to These Terms and Conditions**
+## 2. Eligibility and Use of the App
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+2.1 You must be legally capable of entering into a binding contract under the laws of your country of residence to use the App.
 
-These terms and conditions are effective as of 2024-10-15
+2.2 You agree to use the App only for lawful purposes and in accordance with these Terms, the Apple EULA, and all applicable laws and regulations, including data protection and security laws.
 
-**Contact Us**
+2.3 The App is designed to help you generate **time-based one-time passwords (TOTP) for two-factor authentication (2FA)**. You are solely responsible for:
+- Correctly configuring your accounts and 2FA secrets;
+- Verifying that the generated codes work with each third‑party service; and
+- Maintaining alternative access or recovery options to your accounts.
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at duyckhl@gmail.com.
+---
 
-* * *
+## 3. License Grant and Restrictions
 
-This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+3.1 Subject to your compliance with these Terms and the Apple EULA, we grant you a **limited, non‑exclusive, non‑transferable, non‑sublicensable, revocable license** to download and use the App on Apple‑branded devices that you own or control, as permitted by the Apple EULA.
+
+3.2 You may not, and you agree not to:
+- Copy, modify, adapt, translate, or create derivative works of the App, except as expressly permitted by applicable law;
+- Reverse‑engineer, decompile, disassemble, or attempt to derive the source code of the App, except as expressly permitted by applicable law despite this limitation;
+- Circumvent, disable, or interfere with security‑related features or features that enforce use limitations;
+- Use the App in any manner that could damage, disable, overburden, or impair our infrastructure or interfere with others’ use;
+- Use the App to violate the security or terms of any third‑party service, website, or application;
+- Sell, resell, rent, lease, lend, or otherwise commercially exploit the App or make it available to multiple users beyond what is allowed under the Apple EULA.
+
+---
+
+## 4. Backup Functionality
+
+4.1 The App may provide backup or export capabilities intended to help you preserve your 2FA configuration data (such as secrets, keys, and account labels) ("Backup Data").
+
+4.2 You are solely responsible for:
+- Deciding whether and how to use the backup functionality;
+- Protecting any backup files, export files, or synchronized data (for example, by using strong passwords or encryption where available);
+- Ensuring that backups are stored in secure locations and not shared with unauthorized persons.
+
+4.3 We do not guarantee that backup or restore operations will always succeed or that Backup Data will never be lost, corrupted, or inaccessible. You understand and agree that **loss of Backup Data may result in loss of access to your third‑party accounts**, and you assume all associated risks.
+
+4.4 We are not responsible for any inability to restore access to your third‑party accounts, even if the backup functionality fails, malfunctions, or behaves unexpectedly, to the maximum extent permitted by applicable law.
+
+---
+
+## 5. Safari Extension
+
+5.1 The App may include a Safari extension that interacts with your browser to facilitate 2FA code entry or account management.
+
+5.2 By enabling and using the Safari extension, you authorize it to access certain browser content and data as required to perform its functions, as described in the App’s interface and documentation.
+
+5.3 You are responsible for reviewing and configuring the Safari extension’s permissions and settings according to your security and privacy needs.
+
+5.4 We do not control and are not responsible for the content of third‑party websites or services that you access through Safari or any other browser.
+
+---
+
+## 6. Privacy and Security
+
+6.1 The App may process information such as 2FA secrets, account identifiers, and usage data in order to provide its core functionality. We do not claim ownership of your 2FA secrets or your account data.
+
+6.2 Details on how we collect, use, store, and protect personal data (if any) are described in our **Privacy Policy**, which forms part of these Terms. In case of any inconsistency between these Terms and the Privacy Policy regarding personal data, the Privacy Policy will prevail.
+
+6.3 You are responsible for maintaining the confidentiality and security of your device, passcodes, and any backup passwords or encryption keys. If you lose control of your device or backups, your 2FA secrets and codes may be compromised.
+
+6.4 You acknowledge that no method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security of information processed through the App.
+
+---
+
+## 7. Third‑Party Services and Content
+
+7.1 The App is designed to generate TOTP codes that may be used with third‑party websites, applications, and services (collectively, "Third‑Party Services"). We do not operate or control any Third‑Party Services.
+
+7.2 Your use of Third‑Party Services is governed solely by the terms, conditions, and policies of those third parties, and it is your responsibility to review and comply with them.
+
+7.3 We make no representations or warranties about, and are not responsible or liable for, any Third‑Party Services, including their security, availability, or compliance with applicable law.
+
+---
+
+## 8. Updates, Changes, and Availability
+
+8.1 We may, from time to time, provide updates, enhancements, or modifications to the App (including bug fixes, patches, and new features). Such updates may be installed automatically or may require your initiation, depending on your device settings.
+
+8.2 We reserve the right to modify, suspend, or discontinue the App (in whole or in part) at any time, with or without notice, and without liability to you, except as required by applicable law.
+
+8.3 These Terms may be updated from time to time. When we do so, we will update the "Last updated" date above. Your continued use of the App after any changes constitutes your acceptance of the revised Terms.
+
+---
+
+## 9. Intellectual Property
+
+9.1 All intellectual property rights in and to the App (excluding any third‑party materials and your own data) are owned by us or our licensors and are protected by copyright, trademark, and other laws.
+
+9.2 You may not remove, alter, or obscure any proprietary notices (including copyright and trademark notices) that appear in or on the App.
+
+9.3 Nothing in these Terms transfers any ownership rights in the App or our trademarks to you. You are granted only the limited license described in Section 3.
+
+---
+
+## 10. Disclaimer of Warranties
+
+10.1 To the maximum extent permitted by applicable law, the App is provided on an **"as is" and "as available" basis**, without warranties of any kind, whether express, implied, or statutory.
+
+10.2 Without limiting the foregoing, we expressly disclaim any implied warranties of merchantability, fitness for a particular purpose, and non‑infringement, as well as any warranties arising out of course of dealing or usage of trade.
+
+10.3 We do not warrant that:
+- The App will meet your requirements or expectations;
+- The App will be uninterrupted, timely, secure, or error‑free; or
+- Any defects or errors will be corrected.
+
+10.4 You are solely responsible for ensuring that you have alternative means to access your accounts (such as backup codes or secondary authenticators) and for verifying that your 2FA setup works as intended.
+
+---
+
+## 11. Limitation of Liability
+
+11.1 To the maximum extent permitted by applicable law, in no event shall we be liable for any:
+- Loss of access to accounts, loss of data, or loss of Backup Data;
+- Indirect, incidental, special, consequential, or punitive damages; or
+- Loss of profits, revenue, goodwill, or anticipated savings,
+
+arising out of or in connection with your use of or inability to use the App, even if we have been advised of the possibility of such damages.
+
+11.2 Our total aggregate liability for any and all claims arising out of or relating to the App or these Terms shall, to the maximum extent permitted by applicable law, be limited to the greater of: (a) the amount you actually paid for the App, if any; or (b) the minimum amount required by mandatory law.
+
+11.3 Some jurisdictions do not allow the exclusion or limitation of certain damages or liabilities. In such cases, the above exclusions and limitations will apply to you only to the extent permitted by the laws of your jurisdiction.
+
+---
+
+## 12. Indemnification
+
+12.1 You agree to indemnify, defend, and hold harmless us and our affiliates, and our respective officers, directors, employees, and agents, from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with:
+- Your use of the App;
+- Your violation of these Terms or the Apple EULA; or
+- Your violation of any applicable law or any third‑party rights.
+
+---
+
+## 13. Termination
+
+13.1 These Terms remain in effect until terminated by you or us.
+
+13.2 You may terminate these Terms at any time by deleting the App and all related data and backups from your devices and storage.
+
+13.3 We may suspend or terminate your rights to use the App at any time, with or without notice, if we reasonably believe you have violated these Terms, the Apple EULA, or applicable law, or if we decide to discontinue the App.
+
+13.4 Upon termination, the license granted to you under these Terms will cease, and you must stop all use of the App. Sections that by their nature should survive termination (including but not limited to Sections 6–12) shall survive.
+
+---
+
+## 14. Governing Law and Dispute Resolution
+
+14.1 These Terms shall be governed by and construed in accordance with the laws of **Vietnam**, without regard to its conflict of laws principles, and subject to any mandatory consumer protection provisions of your country of residence that provide you with more favorable rights.
+
+14.2 Any disputes arising out of or in connection with these Terms or your use of the App shall be subject to the non‑exclusive jurisdiction of the courts of Vietnam, unless applicable law provides you with the right to bring proceedings in another jurisdiction.
+
+---
+
+## 15. Contact Information
+
+If you have any questions, complaints, or claims regarding the App or these Terms, please contact:
+
+**Owner:** Duy Cao  
+**Country:** Vietnam  
+**Email:** [Insert contact email]
+
+---
+
+By downloading, installing, or using Go Authenticator, you acknowledge that you have read, understood, and agree to be bound by these Terms and the Apple EULA.
