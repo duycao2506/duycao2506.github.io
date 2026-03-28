@@ -6,7 +6,6 @@ These Terms and Conditions (the "Terms") govern your use of the **Go Authenticat
 
 By downloading, installing, accessing, or using the App, you agree to be bound by these Terms and Apple’s standard **Licensed Application End User License Agreement ("Apple EULA")** as incorporated into the Apple Media Services Terms and Conditions. If you do not agree to these Terms, do not use the App.
 
-> **Important:** This document is for general informational purposes only and may not constitute legal advice. You should have it reviewed by a qualified attorney licensed in your jurisdiction before use.
 
 ---
 
