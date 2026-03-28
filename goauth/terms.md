@@ -186,7 +186,7 @@ If you have any questions, complaints, or claims regarding the App or these Term
 
 **Owner:** Duy Cao  
 **Country:** Vietnam  
-**Email:** [Insert contact email]
+**Email:** duyckhl@gmail.com
 
 ---
 
