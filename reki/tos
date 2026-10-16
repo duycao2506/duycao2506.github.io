@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Terms of Service for Reki: Http Client" />
+  <title>Terms of Service — Reki: Http Client</title>
+  <style>
+    :root { --ink:#152238; --muted:#5d687a; --line:#dce3ec; --brand:#0b67d1; --paper:#fff; --bg:#f5f8fc; }
+    * { box-sizing:border-box; }
+    body { margin:0; font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif; color:var(--ink); background:var(--bg); }
+    header { background:linear-gradient(135deg,#073c7b,#0b67d1); color:white; padding:56px 24px 44px; }
+    .wrap { max-width:880px; margin:0 auto; }
+    h1 { margin:0 0 8px; font-size:clamp(30px,5vw,44px); line-height:1.15; }
+    .subtitle { margin:0; opacity:.9; }
+    main { max-width:880px; margin:32px auto 56px; padding:36px 42px; background:var(--paper); border:1px solid var(--line); border-radius:16px; box-shadow:0 8px 28px rgba(21,34,56,.07); }
+    h2 { font-size:22px; margin:34px 0 10px; padding-top:6px; }
+    h2:first-child { margin-top:0; }
+    p, li { color:#26354b; }
+    ul { padding-left:22px; }
+    a { color:var(--brand); }
+    .notice { background:#eef6ff; border-left:4px solid var(--brand); padding:14px 16px; border-radius:6px; }
+    .meta { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin:24px 0 8px; }
+    .meta div { padding:13px 15px; background:#f7f9fc; border-radius:10px; }
+    .meta strong { display:block; font-size:13px; color:var(--muted); }
+    footer { text-align:center; color:var(--muted); padding:0 20px 40px; font-size:14px; }
+    @media (max-width:640px) { main { margin:18px 12px 40px; padding:26px 22px; } header { padding:42px 22px 34px; } .meta { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Terms of Service</h1>
+      <p class="subtitle">Reki: Http Client</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="meta">
+      <div><strong>Effective date</strong>October 16, 2026</div>
+      <div><strong>Version</strong>1.0</div>
+    </div>
+
+    <p class="notice"><strong>Summary:</strong> Reki: Http Client is a developer tool for building and sending HTTP requests. By using the App you agree to these Terms. You are solely responsible for the requests you send and the servers you interact with.</p>
+
+    <h2>1. Acceptance of These Terms</h2>
+    <p>By downloading, installing, or using Reki: Http Client (“Reki”, “the App”, “we”, “us”, or “our”), you agree to these Terms of Service and our <a href="reki-privacy-policy.html">Privacy Policy</a>. If you do not agree, do not use the App.</p>
+
+    <h2>2. The Service</h2>
+    <p>Reki provides an HTTP client that lets you create, configure, and send HTTP requests (including methods such as GET, POST, PUT, and DELETE) and view responses. The App does not require an account and does not store your request data, response data, credentials, or history.</p>
+
+    <h2>3. Acceptable Use</h2>
+    <p>You agree to use the App only for lawful purposes and in compliance with all applicable laws and regulations. You agree not to use the App to:</p>
+    <ul>
+      <li>violate any law, regulation, or third-party right;</li>
+      <li>gain unauthorized access to, disrupt, or interfere with any system, server, network, or service;</li>
+      <li>send malicious, abusive, fraudulent, or harmful requests; or</li>
+      <li>attempt to circumvent security or authentication measures of any destination server.</li>
+    </ul>
+    <p>You are solely responsible for ensuring that you have the right and authorization to send requests to the servers and services you target.</p>
+
+    <h2>4. Your Responsibilities</h2>
+    <p>You are responsible for the requests you send, the content of those requests, and any credentials, API keys, or tokens you enter into the App. You are responsible for your use of the App and for complying with the terms and acceptable-use policies of any third-party server or service you interact with through the App.</p>
+
+    <h2>5. Data and Privacy</h2>
+    <p>Reki processes your request data only to send the request you initiate and display the response, and does not store, retain, or upload your request data, response data, credentials, tokens, or request history. Please review our <a href="reki-privacy-policy.html">Privacy Policy</a> for more detail.</p>
+
+    <h2>6. Intellectual Property</h2>
+    <p>Reki and its content, including its name, logo, software, design, and documentation, are owned by us or our licensors and are protected by applicable intellectual property laws. We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal or professional development purposes, in accordance with these Terms.</p>
+
+    <h2>7. Third-Party Services</h2>
+    <p>The App may enable you to interact with third-party servers, websites, and services over which we have no control. We are not responsible for those services, their availability, content, or privacy practices. Your use of any third-party service is at your own risk and subject to that service’s own terms.</p>
+
+    <h2>8. Disclaimer of Warranties</h2>
+    <p>The App is provided on an “as is” and “as available” basis, without warranties of any kind, either express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the App will be error-free, uninterrupted, or secure, or that any request or response will be accurate or complete.</p>
+
+    <h2>9. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of profits, data, or goodwill, arising out of or related to your use of or inability to use the App. Our total liability, to the extent permitted by law, will not exceed the amount you paid for the App (which is zero, as the App is provided free of charge) or the maximum amount permitted by applicable law.</p>
+
+    <h2>10. Indemnification</h2>
+    <p>You agree to indemnify and hold us harmless from any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of your use of the App, your breach of these Terms, or your violation of any law or third-party right.</p>
+
+    <h2>11. Changes to the Service and These Terms</h2>
+    <p>We may update, modify, or discontinue the App or any feature at any time without notice. We may also update these Terms from time to time. The updated version will be published on this page with a new “Effective date”. Your continued use of the App after changes take effect constitutes acceptance of the updated Terms.</p>
+
+    <h2>12. Termination</h2>
+    <p>These Terms remain in effect until terminated by you or us. You may terminate them at any time by uninstalling the App. We may suspend or terminate your access to the App if you breach these Terms, without prior notice or liability.</p>
+
+    <h2>13. Governing Law</h2>
+    <p>These Terms are governed by the laws of your jurisdiction, without regard to its conflict-of-laws provisions, to the extent permitted by applicable law. Any dispute will be subject to the exclusive jurisdiction of the competent courts in your jurisdiction.</p>
+
+    <h2>14. Contact Us</h2>
+    <p>If you have questions about these Terms, contact us at <a href="mailto:duydaodac@gmail.com">privacy@your-domain.com</a>.</p>
+    <p><strong>Before publishing:</strong> replace the email address above with your real support email address, and review the “Governing Law” section to specify the jurisdiction that actually governs your app.</p>
+  </main>
+
+  <footer>© 2026 Reki: Http Client. All rights reserved.</footer>
+</body>
+</html>
